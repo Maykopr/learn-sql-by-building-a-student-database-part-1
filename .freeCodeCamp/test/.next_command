@@ -52,3 +52,5 @@ chmod +x insert_data.sh
 clear
 ./insert_data.sh
 declare -p IFS
+declare -p IFS
+./insert_data.sh
