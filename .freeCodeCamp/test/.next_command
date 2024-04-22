@@ -58,3 +58,5 @@ clear
 ./insert_data.sh
 clear
 ./insert_data.sh
+clear
+cp courses.csv courses_test.csv
